@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@DaisyXbot](https://t.me/kxxle)
 
 <p align="center">
   <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
@@ -44,7 +44,7 @@ $ apt install nodejs -y
 $ pip3 install -U pip
 $ npm i -g npm
 # Now Do Git Clone
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/LrZiD/DaisyXMusic
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
@@ -139,8 +139,8 @@ If you donlt like to play in linked channel:
 
 ## Copyright & License 👮
 
- - Copyright (C) 2020-present by [TeamDaisyX](github.com/teamdaisyx) ❤️️
- - Licensed under the terms of the [MIT License](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
+ - Copyright (C) 2020-present by [TeamDaisyX](github.com/lrzid) ❤️️
+ - Licensed under the terms of the [MIT License](https://github.com/LrZiD/DaisyXMusic/blob/master/LICENSE)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the MIT License as published by the Free Software Foundation.    
-## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
+## Made with ♥️ by [LrZiD](https://github.com/LrZiD)
